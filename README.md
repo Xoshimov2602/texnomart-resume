@@ -30,29 +30,8 @@ Texnomart stores using Yandex Maps.
 
 ---
 
+### 🎥 App Preview
 
-[//]: # (### 🖼️ Screenshots)
+![App Preview](images/my_app.gif)
 
-[//]: # (<table>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td><img src="images/screenshot1.jpg" alt="Screenshot 1" width="200"/></td>)
-
-[//]: # (    <td><img src="images/screenshot2.jpg" alt="Screenshot 2" width="200"/></td>)
-
-[//]: # (    <td><img src="images/screenshot3.jpg" alt="Screenshot 3" width="200"/></td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td><img src="images/screenshot4.jpg" alt="Screenshot 4" width="200"/></td>)
-
-[//]: # (    <td><img src="images/screenshot5.jpg" alt="Screenshot 5" width="200"/></td>)
-
-[//]: # (    <td><img src="images/screenshot6.jpg" alt="Screenshot 6" width="200"/></td>)
-
-[//]: # (  </tr>)
-
-[//]: # (</table>)
+[//]: # ([![Watch the video]&#40;images/thumbnail.jpg&#41;]&#40;video/app_preview.mp4&#41;)
