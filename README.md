@@ -33,6 +33,3 @@ Texnomart stores using Yandex Maps.
 ### 🎥 App Preview
 
 ![App Preview](images/my_app.gif)
-
-
-[//]: # (![App Preview]&#40;images/my_app.gif&#41; )
